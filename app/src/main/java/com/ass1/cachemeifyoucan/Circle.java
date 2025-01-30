@@ -1,4 +1,5 @@
 package com.ass1.cachemeifyoucan;
 
-public class Circle {
+public class Circle extends Shape{
+
 }
